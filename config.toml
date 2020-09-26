@@ -1,4 +1,4 @@
-baseURL = "https://kattladan.com/"
+baseURL = "http://kattladan.com/"
 languageCode = "en-us"
 title = "kattLådan"
 theme = "researcher"
