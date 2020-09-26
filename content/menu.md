@@ -22,6 +22,10 @@ Chuggernaut Hazy Session IPA <br> _India Pale Ale, Amundsen Bryggeri, NOR, 440ml
 Pilsner <br> _Stigbergets Bryggeri, SWE, 440ml, 4,8%, 3st_ | 3
 Berry Crush Sour <br> _Berliner Weisse, Brygghuset Finn, SWE, 330ml, 5,6%, 3st_ | 3
 Staropramen <br> _Ljus lager, Staropramen, CZE, 500ml, 5,0%, 8st_ | 2
+Road trip <br> _Pale Ale, Uppsala Brygghus, SWE, 330ml, 0,0%, 2st_ | 2
+Berry Berry <br> _Syrlig fruktöl, Uppsala Brygghus, SWE, 330ml, 3,5%, 2st_ | 2
+The hoppy one <br> _IPA, Train Station Brewery, SWE, 330ml, 3,5%, 2st_ | 2
+Sir taste-a-lot <br> _Ljus lager, Brutal Brewing, SWE, 500ml, 3,5%, 4st_ | 4
 
 ### Vitt vin
 _Vårt vin säljs endast i hela flaskor_
@@ -54,7 +58,6 @@ Vatten ur fontänen (**_kockens val_**)<br> _serveras brevid TVn_ | 0
 
 Name | Price
 -----| -----
-Grönt Te <br> _Mackmyra, Sverige, 46,1%_ | 2
 MACK <br> _Mackmyra, Sverige, 40%_ | 2
 Brukswhisky <br> _Mackmyra, Sverige, 41,4%_ | 2
 Talisker <br> _10 Years, Isle of Skye, Skottland, 45,8%_ | 2
@@ -63,7 +66,8 @@ Laphroaig <br> _Four Oak, Islay, Skottland, 40%_ | 3
 The Balvenie <br> _12 Years, DoubleWood, Speyside, Skottland, 40%_ | 3
 Super <br> _Blended, Nikka, Japan, 43%_ | 3
 Ardbeg <br> _10 Years, Islay, Skottland, 46%_ | 3
-Ardbeg <br> _Uigeadail, Islay, Skottland, 54,2%_ |  3
+Ardbeg <br> _Uigeadail, Islay, Skottland, 54,2%_ |  4
+Grönt Te <br> _Mackmyra, Sverige, 46,1%_ | 4
 Lagavulin <br> _16 Years, Islay, Skottland, 43%_ | 4
 Loch Lomond <br> _18 Years, Highlands, Skottland, 46%_ | 4
 Longmorn <br> _16 Years, Speyside, Skottland, 48%_ | 4
