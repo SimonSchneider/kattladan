@@ -1,0 +1,25 @@
+baseURL = "https://kattladan.com/"
+languageCode = "en-us"
+title = "kattLådan"
+theme = "researcher"
+enableEmoji = true
+publishDir = "docs"
+
+[params]
+  author = "Isa & Soja"
+  description = "A simple monospaced resume theme for Hugo."
+  favicon = "favicon.ico"  # path to a .ico to use as favicon
+  [params.footer]
+    text = "By Isa & Soja"
+
+[permalinks]
+  "/" = "/:filename"
+
+[menu]
+  [[menu.main]]
+    name = "Meny"
+    url = "/menu"
+    weight = 1
+
+[markup.goldmark.renderer]
+  unsafe = true  # allow raw HTML in markdown files
