@@ -24,7 +24,7 @@ Berry Crush Sour <br> _Berliner Weisse, Brygghuset Finn, SWE, 330ml, 5,6%, 3st_ 
 Staropramen <br> _Ljus lager, Staropramen, CZE, 500ml, 5,0%, 8st_ | 2
 
 ### Vitt vin
-_Vårt vin säljs endast i flaskor_
+_Vårt vin säljs endast i hela flaskor_
 
 Name | Price
 -----| -----
@@ -32,7 +32,7 @@ Name | Price
 2019 Folklore <br> _Albariño, Rías Baixas, ESP, 750ml, 13%_ | 10
 
 ### Rött vin
-_Vårt vin säljs endast i flaskor_
+_Vårt vin säljs endast i hela flaskor_
 
 Name | Price
 -----| -----
@@ -50,12 +50,23 @@ Lennart | 5
 GT <br> _smaksatt med skogens guld_ | 5
 Vatten ur fontänen (**_kockens val_**)<br> _serveras brevid TVn_ | 0
 
-### Whiskey
+### Whisky
 
 Name | Price
 -----| -----
-The Balvenie <br> _12 Year, DoubleWood, Speyside, Skottland, 40%_ | 3
 Grönt Te <br> _Mackmyra, Sverige, 46,1%_ | 2
+MACK <br> _Mackmyra, Sverige, 40%_ | 2
+Brukswhisky <br> _Mackmyra, Sverige, 41,4%_ | 2
+Talisker <br> _10 Years, Isle of Skye, Skottland, 45,8%_ | 2
+Bowmore <br> _15 Years, Islay, Skottland, 43%_ | 3
+Laphroaig <br> _Four Oak, Islay, Skottland, 40%_ | 3
+The Balvenie <br> _12 Years, DoubleWood, Speyside, Skottland, 40%_ | 3
+Super <br> _Blended, Nikka, Japan, 43%_ | 3
+Ardbeg <br> _10 Years, Islay, Skottland, 46%_ | 3
+Ardbeg <br> _Uigeadail, Islay, Skottland, 54,2%_ |  3
+Lagavulin <br> _16 Years, Islay, Skottland, 43%_ | 4
+Loch Lomond <br> _18 Years, Highlands, Skottland, 46%_ | 4
+Longmorn <br> _16 Years, Speyside, Skottland, 48%_ | 4
 
 ### Alkoholfritt
 
