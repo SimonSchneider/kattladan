@@ -19,4 +19,4 @@ Eftersom katter har lite användning för pengar så sker betalning på ett katt
 * lek, vi har alltid lust
 * klappar, om ni får tag på oss
 
-![Example image](/img/frontpage.jpg)
+![Example image](/img/frontpage-2.jpg)
