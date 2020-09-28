@@ -14,9 +14,12 @@ beställning så att alla får ta del av smakupplevelsen.
 Då restaurangen är driven av katter så ber vi allergiker att medicinera innan ankomst.
 
 Eftersom katter har lite användning för pengar så sker betalning på ett kattanpassat vis.
-1 kattpeng motsvarar 1 minuts valfri kattaktivitet, förslagsvis:
+1 kattpeng motsvarar 1 minuts valfri kattaktivitet förslagsvis:
 * gos, om vi har lust
 * lek, vi har alltid lust
 * klappar, om ni får tag på oss
+
+Betalning sker på plats inom 24h och det går ej att tillgodoräkna sig tidigare frivilliga 
+eller påtvingade kattaktiviteter.
 
 ![Example image](/img/frontpage-2.jpg)
