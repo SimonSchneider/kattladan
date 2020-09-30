@@ -22,7 +22,6 @@ Chuggernaut Hazy Session IPA <br> _India Pale Ale, Amundsen Bryggeri, NOR, 440ml
 Pilsner <br> _Stigbergets Bryggeri, SWE, 440ml, 4,8%, 3st_ | 3
 Berry Crush Sour <br> _Berliner Weisse, Brygghuset Finn, SWE, 330ml, 5,6%, 3st_ | 3
 Staropramen <br> _Ljus lager, Staropramen, CZE, 500ml, 5,0%, 8st_ | 2
-Road trip <br> _Pale Ale, Uppsala Brygghus, SWE, 330ml, 0,0%, 2st_ | 2
 Berry Berry <br> _Syrlig fruktöl, Uppsala Brygghus, SWE, 330ml, 3,5%, 2st_ | 2
 The hoppy one <br> _IPA, Train Station Brewery, SWE, 330ml, 3,5%, 2st_ | 2
 Sir taste-a-lot <br> _Ljus lager, Brutal Brewing, SWE, 500ml, 3,5%, 4st_ | 4
@@ -55,6 +54,7 @@ GT <br> _smaksatt med skogens guld_ | 5
 Vatten ur fontänen (**_kockens val_**)<br> _serveras brevid TVn_ | 0
 
 ### Whisky
+_Våran whisky serveras i glas och mängden beror på servitrisens och kundens humör_
 
 Name | Price
 -----| -----
@@ -78,6 +78,7 @@ Name | Price
 -----| -----
 Vatten | 0
 Sprite <br> _100ml_ | 1
+Road trip <br> _Pale Ale, Uppsala Brygghus, SWE, 330ml, 0,0%, 2st_ | 2
 
 ### Snacks
 
@@ -95,6 +96,7 @@ Name | Price
 Vedugnsbakad pizza<br> _från vår lokala samarbetspartner Småstad (se separat meny)_ |
 Pluppar ur matpusslet (**_kockens val_**) | 40
 Diverse annan människomat <br> _från olika partners som Foodora, Coop och ICA_ | 
+Vegetarisk Lasagne <br> _tillagad i Borlänge av våran gästkock Elis Velis_ | 6
 Vatten o bröd <br> _brödet tillfälligt slut_ | 2
 
 ### Aktiviteter
