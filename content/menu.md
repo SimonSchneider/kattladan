@@ -41,7 +41,6 @@ Name | Price
 -----| -----
 2019 19 Crimes <br> _Red blend, 19 Crimes, AUS, 750ml, 14%_ | 10
 2019 Hope <br> _Shiraz Reserve, Iconic Wines, AUS, 750ml, 14,5%_ | 9
-2019 Cameleon <br> _Malbec, Domaine Bousquet, ARG, 750ml, 13,5%_ | 8
 2017 Castelforte <br> _Ripasso, Cantine Riondo, ITA, 750ml, 14%_ | 10
 
 ### Drinkar
